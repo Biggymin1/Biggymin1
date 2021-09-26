@@ -5,4 +5,4 @@
 - I have few experience in C# unity programming,Arduino programming,Python,HTML,CSS,Javascript and Dart (Flutter)
 - 📫 You can reach me on Instagram @min.tote or email at aminwali360@gmail.com
 
-Learn more about me on linktr.ee/Biggymin
+Learn more about me on <a href="linktr.ee/Biggymin">linktree</a>
